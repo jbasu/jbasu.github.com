@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: 
-
-Sitemap: http://jbasu.github.com/sitemap.xml 
+Allow: /
